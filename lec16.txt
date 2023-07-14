@@ -1,0 +1,5 @@
+The word Algorithm means ” A set of finite rules or instructions to be followed in calculations or other problem-solving operations ” Or ” A procedure for solving a mathematical problem in a finite number of steps that frequently involves recursive operations”.
+Use of the Algorithms:-
+Algorithms play a crucial role in various fields and have many applications. Some of the key areas where algorithms are used include:
+
+Computer Science: Algorithms form the basis of computer programming and are used to solve problems ranging from simple sorting and searching to complex tasks such as artificial intelligence and machine learning.
